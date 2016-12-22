@@ -28,17 +28,17 @@
     <AppXManifest Include="D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\Cur_21_MVVM\Cur_21_MVVM.Windows\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-12-21T19:57:26.244</Modified>
+      <Modified>2016-12-22T16:03:31.729</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\Cur_21_MVVM\Cur_21_MVVM.Windows\bin\Debug\Cur_21_MVVM.Windows.exe">
       <PackagePath>Cur_21_MVVM.Windows.exe</PackagePath>
-      <Modified>2016-12-21T19:57:25.599</Modified>
+      <Modified>2016-12-22T16:03:30.775</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\Cur_21_MVVM\Cur_21_MVVM\bin\Debug\Cur_21_MVVM.dll">
       <PackagePath>Cur_21_MVVM.dll</PackagePath>
-      <Modified>2016-12-21T19:57:04.803</Modified>
+      <Modified>2016-12-22T16:03:05.512</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Core.dll">
       <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
@@ -90,11 +90,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\Cur_21_MVVM\Cur_21_MVVM.Windows\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2016-12-21T19:57:25.530</Modified>
+      <Modified>2016-12-22T16:03:30.651</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\Cur_21_MVVM\Cur_21_MVVM.Windows\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2016-12-21T19:57:25.533</Modified>
+      <Modified>2016-12-22T16:03:30.655</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.WinRT\PageControl.xbf">
       <PackagePath>Xamarin.Forms.Platform.WinRT\PageControl.xbf</PackagePath>
@@ -126,7 +126,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\Cur_21_MVVM\Cur_21_MVVM.Windows\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-12-21T19:57:25.936</Modified>
+      <Modified>2016-12-22T16:03:31.387</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

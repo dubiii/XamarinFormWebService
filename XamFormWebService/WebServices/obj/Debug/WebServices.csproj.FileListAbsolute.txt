@@ -15,6 +15,8 @@ D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\WebServices\bin\WebServ
 D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\WebServices\bin\WebServices.dll
 D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\WebServices\bin\WebServices.pdb
 D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\WebServices\bin\Antlr3.Runtime.dll
+D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\WebServices\bin\EntityFramework.dll
+D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\WebServices\bin\EntityFramework.SqlServer.dll
 D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\WebServices\bin\Microsoft.AI.Agent.Intercept.dll
 D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\WebServices\bin\Microsoft.AI.DependencyCollector.dll
 D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\WebServices\bin\Microsoft.AI.PerfCounterCollector.dll
@@ -36,6 +38,8 @@ D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\WebServices\bin\System.
 D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\WebServices\bin\System.Web.WebPages.dll
 D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\WebServices\bin\System.Web.WebPages.Razor.dll
 D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\WebServices\bin\WebGrease.dll
+D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\WebServices\bin\EntityFramework.xml
+D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\WebServices\bin\EntityFramework.SqlServer.xml
 D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\WebServices\bin\Microsoft.AI.DependencyCollector.xml
 D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\WebServices\bin\Microsoft.AI.ServerTelemetryChannel.xml
 D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\WebServices\bin\Microsoft.AI.Web.xml
@@ -66,8 +70,3 @@ D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\WebServices\bin\es\Syst
 D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\WebServices\bin\es\System.Web.WebPages.Razor.resources.dll
 D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\WebServices\obj\Debug\WebServices.dll
 D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\WebServices\obj\Debug\WebServices.pdb
-D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\WebServices\bin\EntityFramework.dll
-D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\WebServices\bin\EntityFramework.SqlServer.dll
-D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\WebServices\bin\EntityFramework.xml
-D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\WebServices\bin\EntityFramework.SqlServer.xml
-D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\WebServices\obj\Debug\WebServices.csprojResolveAssemblyReference.cache
