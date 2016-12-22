@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Cur_21_MVVM.Views.Home"
+             xmlns:ViewModels="clr-namespace:Cur_21_MVVM.ViewModels;assembly=Cur_21_MVVM">
+  <!--bindear viewmodels desde el nombre de espacio y luego al contentpage con un tag, la ventaja de esto es que intelisense se activa bindeando de esta forma-->
+  <ContentPage.BindingContext>
+    <ViewModels:MainViewModel/>
+  </ContentPage.BindingContext>
+  
+  <StackLayout Orientation="Vertical">
+    
+    <Button Text="Agregar Empleado"
+            Clicked="Button_OnClicked"/>
+    
+    <Button Text="Buscar Empleado"
+            BackgroundColor="Blue"
+            Clicked="Button_OnClicked_2"/>
+
+    <ListView x:Name="ListviewEmpleados" ItemsSource="{Binding ListaEmpleado}"
+              HasUnevenRows="True"
+              ItemTapped="ListView_OnItemTapped">
+      <ListView.ItemTemplate>
+        <DataTemplate>
+          <ViewCell>
+            <StackLayout Orientation="Vertical"
+                         Padding="12,6">
+              <Label Text="{Binding Name}"
+                     FontSize="24"/>
+              <Label Text="{Binding Department}"
+                     FontSize="18"
+                     Opacity="0.6"/>
+            </StackLayout>
+          </ViewCell>
+        </DataTemplate>
+      </ListView.ItemTemplate>
+    </ListView>
+    
+  </StackLayout>
+  
+  
+  
+</ContentPage>

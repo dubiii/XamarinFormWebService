@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PC-DESARROLLO02</Machine>
+    <WindowsUser>dmolina</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>7f5bc3fd-33fa-4099-98b1-6a042f810313</PackageIdentityName>
+    <PackageIdentityPublisher>CN=dmolina</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\Cur_21_MVVM\Cur_21_MVVM.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>0F5BE64719FC15B7CCCCC8C0A7AF769601FC6EA1B2F46469CA0D96A833314560</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>7f5bc3fd-33fa-4099-98b1-6a042f810313_1.0.0.0_neutral__xze59exyrfgvm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>7f5bc3fd-33fa-4099-98b1-6a042f810313_xze59exyrfgvm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>7f5bc3fd-33fa-4099-98b1-6a042f810313</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=dmolina</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\Cur_21_MVVM\Cur_21_MVVM.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-12-21T19:57:26.244</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\Cur_21_MVVM\Cur_21_MVVM.Windows\bin\Debug\Cur_21_MVVM.Windows.exe">
+      <PackagePath>Cur_21_MVVM.Windows.exe</PackagePath>
+      <Modified>2016-12-21T19:57:25.599</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\Cur_21_MVVM\Cur_21_MVVM\bin\Debug\Cur_21_MVVM.dll">
+      <PackagePath>Cur_21_MVVM.dll</PackagePath>
+      <Modified>2016-12-21T19:57:04.803</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Core.dll">
+      <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
+      <Modified>2016-10-14T17:28:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.dll">
+      <PackagePath>Xamarin.Forms.Platform.dll</PackagePath>
+      <Modified>2016-10-14T17:28:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.WinRT.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.dll</PackagePath>
+      <Modified>2016-10-14T17:28:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet.dll</PackagePath>
+      <Modified>2016-10-14T17:28:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Xaml.dll">
+      <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
+      <Modified>2016-10-14T17:28:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\Cur_21_MVVM\Cur_21_MVVM\bin\Debug\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2016-01-09T16:50:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\Cur_21_MVVM\Cur_21_MVVM.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-12-20T14:31:16.224</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\Cur_21_MVVM\Cur_21_MVVM.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-12-20T14:31:16.226</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\Cur_21_MVVM\Cur_21_MVVM.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-12-20T14:31:16.227</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\Cur_21_MVVM\Cur_21_MVVM.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-12-20T14:31:16.228</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\Cur_21_MVVM\Cur_21_MVVM.Windows\bin\Debug\Cur_21_MVVM.Windows.xr.xml">
+      <PackagePath>Cur_21_MVVM.Windows.xr.xml</PackagePath>
+      <Modified>2016-12-20T15:14:28.371</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\Cur_21_MVVM\Cur_21_MVVM.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-12-21T19:57:25.530</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\Cur_21_MVVM\Cur_21_MVVM.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-12-21T19:57:25.533</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.WinRT\PageControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\PageControl.xbf</PackagePath>
+      <Modified>2016-10-14T17:28:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.WinRT\StepperControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\StepperControl.xbf</PackagePath>
+      <Modified>2016-10-14T17:28:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml</PackagePath>
+      <Modified>2016-10-14T17:28:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\FormsTextBoxStyle.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\FormsTextBoxStyle.xbf</PackagePath>
+      <Modified>2016-10-14T17:28:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf</PackagePath>
+      <Modified>2016-10-14T17:28:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf</PackagePath>
+      <Modified>2016-10-14T17:28:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml</PackagePath>
+      <Modified>2016-10-14T17:28:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\Cur_21_MVVM\Cur_21_MVVM.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-12-21T19:57:25.936</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

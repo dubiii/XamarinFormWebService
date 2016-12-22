@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:ViewModels="clr-namespace:Cur_21_MVVM.ViewModels;assembly=Cur_21_MVVM" 
+             x:Class="Cur_21_MVVM.Views.NuevoEmpleado">
+
+  <ContentPage.BindingContext>
+    <ViewModels:MainViewModel/>
+  </ContentPage.BindingContext>
+  
+  <StackLayout Orientation="Vertical"
+               Spacing="18">
+    <!--16 - crear XML de pagina agregar empleado, pegar el xmlns de viewmodel-->
+    <Label Text="Nombre"/>
+    <Entry Text="{Binding SelectedEmpleado.Name, Mode=TwoWay}"/>
+
+    <Label Text="Departamento"/>
+    <Entry Text="{Binding SelectedEmpleado.Department, Mode=TwoWay}"/>
+
+    <Button Text="Agregar Empleado"
+            BackgroundColor="Blue"
+            Command="{Binding GuardarDatos}"/>
+    <Button Text="Editar Empleado"
+            BackgroundColor="Navy"
+            Command="{Binding EditarDatos}"/>
+    <Button Text="Borrar Empleado"
+            BackgroundColor="Maroon"
+            Command="{Binding BorrarDatos}"/>
+    <!-- 17 - crear comando para enviar datos en el mainviewmodel-->
+    
+  </StackLayout>
+</ContentPage>

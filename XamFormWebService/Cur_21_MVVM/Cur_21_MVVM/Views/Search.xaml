@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Cur_21_MVVM.Views.Search"
+             xmlns:ViewModels="clr-namespace:Cur_21_MVVM.ViewModels;assembly=Cur_21_MVVM">
+
+  <ContentPage.BindingContext>
+    <ViewModels:MainViewModel/>
+  </ContentPage.BindingContext>
+  
+  <StackLayout Orientation="Vertical"
+               Spacing="12">
+    <Entry Text="{Binding nombreEmpleado, Mode=TwoWay}"/>
+    <Button Text="Buscar"
+            BackgroundColor="Teal"
+            Command="{Binding BuscarEmpleado}"></Button>
+    
+    <ListView ItemsSource="{Binding SearchedEmpleados}"
+              HasUnevenRows="True">
+      <ListView.ItemTemplate>
+        <DataTemplate>
+          <ViewCell>
+            <StackLayout Orientation="Vertical"
+                         Padding="12,6">
+              <Label Text="{Binding Name}"
+                     FontSize="24"/>
+              <Label Text="{Binding Department}"
+                     FontSize="18"
+                     Opacity="0.6"/>
+            </StackLayout>
+          </ViewCell>
+        </DataTemplate>
+      </ListView.ItemTemplate>
+    </ListView>
+  </StackLayout>
+</ContentPage>

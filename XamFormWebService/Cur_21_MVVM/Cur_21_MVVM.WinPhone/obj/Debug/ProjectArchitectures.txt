@@ -1,0 +1,2 @@
+D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\Cur_21_MVVM\Cur_21_MVVM.WinPhone\Cur_21_MVVM.WinPhone.csproj;neutral
+D:\Emergency Proyectos\Xamarin\CrossPlatform\Cur_21_MVVM\Cur_21_MVVM\Cur_21_MVVM\Cur_21_MVVM.csproj;neutral
